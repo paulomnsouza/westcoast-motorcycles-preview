@@ -1,0 +1,19 @@
+{
+  "name": "West Coast Motorcycles",
+  "short_name": "West Coast",
+  "icons": [
+    {
+      "src": "/westcoast-motorcycles-preview/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "/westcoast-motorcycles-preview/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#0e1b2c",
+  "background_color": "#f6f3ee",
+  "display": "browser"
+}
